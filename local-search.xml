@@ -8,7 +8,7 @@
     <link href="/2024/01/19/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83%E6%8C%87%E5%8D%97/"/>
     <url>/2024/01/19/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83%E6%8C%87%E5%8D%97/</url>
     
-    <content type="html"><![CDATA[<img src="/2024/01/19/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83%E6%8C%87%E5%8D%97/glencoe.jpg" class=""><h4 id="鸣谢"><a href="#鸣谢" class="headerlink" title="鸣谢"></a>鸣谢</h4><p>本博客搭建过程参考：<a href="https://blog.csdn.net/yaorongke/article/details/119089190">GitHub Pages + Hexo搭建个人博客网站，史上最全教程</a></p><h4 id="博客发布流程："><a href="#博客发布流程：" class="headerlink" title="博客发布流程："></a>博客发布流程：</h4><p>1.终端命令<code>cd hexo-blog</code>、<code>hexo new yourArticalName</code><br>2.finder进入到<code>～/hexo-blog/source/_posts</code>目录下，找到你刚创建的文章开写<br>3.如果需要用到图片，放到对应的文件夹中，然后<code>&#123;% asset_img glencoe.jpg %&#125;</code>这样在文章中引用<br>4.文章编写完后发布：<code>hexo g -d</code></p>]]></content>
+    <content type="html"><![CDATA[<img src="/2024/01/19/%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83%E6%8C%87%E5%8D%97/glencoe.jpg" class=""><h4 id="鸣谢"><a href="#鸣谢" class="headerlink" title="鸣谢"></a>鸣谢</h4><p>本博客搭建过程参考：<a href="https://blog.csdn.net/yaorongke/article/details/119089190">GitHub Pages + Hexo搭建个人博客网站，史上最全教程</a></p><h4 id="博客发布流程："><a href="#博客发布流程：" class="headerlink" title="博客发布流程："></a>博客发布流程：</h4><p>1.终端命令<code>cd hexo-blog</code>、<code>hexo new yourArticalName</code><br>2.finder进入到<code>～/hexo-blog/source/_posts</code>目录下，找到你刚创建的文章开写<br>3.如果需要用到图片，放到对应的文件夹中，然后<code>&#123;% asset_img glencoe.jpg %&#125;</code>这样在文章中引用<br>4.文章写完后需要发布：<code>hexo g -d</code></p>]]></content>
     
     
     
